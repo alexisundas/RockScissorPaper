@@ -82,6 +82,7 @@ body {
 
 .choice:hover {
     cursor: pointer;
+    background-color: yellow;
 }
 
 #action-message {
